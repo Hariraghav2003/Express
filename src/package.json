@@ -1,0 +1,24 @@
+{
+  "name": "expresspractice",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Hariraghav.S",
+  "type": "commonjs",
+  "main": "Server.js",
+  "scripts": {
+    "test": "node Server.js",
+    "basic": "node Expressbasics.js",
+    "intermediate": "node Intermediatelevel.js",
+    "methods": "node Expressmethods.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "marked": "^4.3.0",
+    "path": "^0.12.7"
+  }
+}
