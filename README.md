@@ -70,4 +70,22 @@ npm run methods
 - 📙 [Intermediate Module](src/README.intermediate.md)
 - 📕 [Methods Module](src/README.methods.md)
 
+---
+
+## 📩 License
+
+Created by Hariraghav.S
+
+---
+
+## 📬 Contact
+
+[![Email](https://img.shields.io/badge/email-hariraghava21s@gmail.com-blue?style=flat&logo=gmail)](mailto:hariraghava21s@gmail.com)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hariraghav.S-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hariraghav962003/)
+
 Happy Coding! 🎯
